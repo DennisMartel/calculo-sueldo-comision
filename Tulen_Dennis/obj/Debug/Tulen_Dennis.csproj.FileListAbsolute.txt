@@ -1,0 +1,10 @@
+C:\Users\Dennis Alexander\source\repos\Tulen_Dennis\Tulen_Dennis\bin\Debug\Tulen_Dennis.exe.config
+C:\Users\Dennis Alexander\source\repos\Tulen_Dennis\Tulen_Dennis\bin\Debug\Tulen_Dennis.exe
+C:\Users\Dennis Alexander\source\repos\Tulen_Dennis\Tulen_Dennis\bin\Debug\Tulen_Dennis.pdb
+C:\Users\Dennis Alexander\source\repos\Tulen_Dennis\Tulen_Dennis\obj\Debug\Tulen_Dennis.csproj.AssemblyReference.cache
+C:\Users\Dennis Alexander\source\repos\Tulen_Dennis\Tulen_Dennis\obj\Debug\Tulen_Dennis.Properties.Resources.resources
+C:\Users\Dennis Alexander\source\repos\Tulen_Dennis\Tulen_Dennis\obj\Debug\Tulen_Dennis.csproj.GenerateResource.cache
+C:\Users\Dennis Alexander\source\repos\Tulen_Dennis\Tulen_Dennis\obj\Debug\Tulen_Dennis.csproj.CoreCompileInputs.cache
+C:\Users\Dennis Alexander\source\repos\Tulen_Dennis\Tulen_Dennis\obj\Debug\Tulen_Dennis.exe
+C:\Users\Dennis Alexander\source\repos\Tulen_Dennis\Tulen_Dennis\obj\Debug\Tulen_Dennis.pdb
+C:\Users\Dennis Alexander\source\repos\Tulen_Dennis\Tulen_Dennis\obj\Debug\Tulen_Dennis.frmPrincipal.resources
